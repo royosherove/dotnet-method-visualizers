@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DynamicMethodVisualizer.MethodBodyViewer.resources
+obj\Debug\DynamicMethodVisualizer.csproj.GenerateResource.Cache
+bin\Debug\DynamicMethodVisualizer.dll.config
+bin\Debug\DynamicMethodVisualizer.dll
+bin\Debug\DynamicMethodVisualizer.pdb
+bin\Debug\DmILReader.dll
+bin\Debug\DmILReader.pdb
+obj\Debug\DynamicMethodVisualizer.dll
+obj\Debug\DynamicMethodVisualizer.pdb
